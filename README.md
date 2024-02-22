@@ -9,11 +9,10 @@
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
 <br><br>
-- :school: I am a Fresh Graduate from the Faculty of Computers & Artificial Intelligince at Benha University.
+- :school: I am a Junior from the Faculty of Computers & Artificial Intelligince at Benha University.
 - :student: I'm a Junior in `Computer Science` department.
 - :man_technologist: I worked in `Scale Ai` remotely.
 - :computer: I'm a `competitive programmer` at [Codeforces](https://codeforces.com/profile/OsamaAyman_), [Leetcode](https://leetcode.com/OsamaAyman_/).
-- :trophy: 2x `ECPC` Finalist.
 - :boom: I’m currently open for a new job opportunity, this is [MY RESUME](./Osama_Ayman_Resume.pdf).
 - :boom: You can see [MY Website](https://osamaaayman.github.io/My-portfolio).
 <br>
